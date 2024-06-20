@@ -1,0 +1,11 @@
+C:\immob\src\main\java\com\example\immob\config\DataInitializer.java
+C:\immob\src\main\java\com\example\immob\config\SecurityConfig.java
+C:\immob\src\main\java\com\example\immob\controller\AdminController.java
+C:\immob\src\main\java\com\example\immob\controller\ProprieteController.java
+C:\immob\src\main\java\com\example\immob\ImmobApplication.java
+C:\immob\src\main\java\com\example\immob\model\Admin.java
+C:\immob\src\main\java\com\example\immob\model\Propriete.java
+C:\immob\src\main\java\com\example\immob\repository\AdminRepository.java
+C:\immob\src\main\java\com\example\immob\repository\ProprieteRepository.java
+C:\immob\src\main\java\com\example\immob\service\AdminService.java
+C:\immob\src\main\java\com\example\immob\service\ProprieteService.java

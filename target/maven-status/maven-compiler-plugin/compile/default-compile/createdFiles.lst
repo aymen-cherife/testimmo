@@ -1,0 +1,11 @@
+com\example\immob\service\ProprieteService.class
+com\example\immob\controller\ProprieteController.class
+com\example\immob\ImmobApplication.class
+com\example\immob\model\Admin.class
+com\example\immob\repository\AdminRepository.class
+com\example\immob\repository\ProprieteRepository.class
+com\example\immob\config\DataInitializer.class
+com\example\immob\config\SecurityConfig.class
+com\example\immob\controller\AdminController.class
+com\example\immob\model\Propriete.class
+com\example\immob\service\AdminService.class
