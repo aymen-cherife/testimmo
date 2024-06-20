@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ImmobApplication<immob>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.immob.ImmobApplication",
+            "projectName": "immob",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

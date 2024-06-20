@@ -23,9 +23,9 @@ public class ProprieteService {
     }
 
     public Propriete mettreAJourPropriete(Long id, Propriete proprieteDetails) {
-        Optional<Propriete> proprieteOpt = proprieteRepository.findById(id);
-        if (proprieteOpt.isPresent()) {
-            Propriete propriete = proprieteOpt.get();
+        Optional<Propriete> prop = proprieteRepository.findById(id);
+        if (prop.isPresent()) {
+            Propriete propriete = prop.get();
             propriete.setAdresse(proprieteDetails.getAdresse());
             propriete.setPrix(proprieteDetails.getPrix());
             propriete.setDescription(proprieteDetails.getDescription());
